@@ -1,0 +1,66 @@
+#body{
+  margin: 0;
+  padding: 0;
+  position: relative;
+
+
+}
+.my-bg-light{
+  top:0;
+  width: 100%;
+  height: 80px;
+  position: fixed;
+
+
+}
+.my-bg-light h2{
+  width: 10%;
+  height: 100%;
+  color: #00cc99;
+  margin-left: 10%;
+  margin-top: 3%;
+}
+
+.nav-item {
+  margin-left: 6%;
+}
+
+.nav-item a{
+  color:#e8e8e8;
+  font-size: 15px;
+
+
+}
+
+.nav-item:hover  a {
+  color: 	 #4dffd2;
+
+}
+.my-collapse  {
+  margin-left: 8%;
+}
+
+
+.my-btn{
+
+  border:1px ;
+   border-radius: 10%;
+  background-color:  #00b386;
+  color:#e8e8e8 ;
+  transition: 1s;
+}
+ .form-inline:hover .my-btn {
+   background-color: #00cc99;
+
+ }
+
+
+.my-form-control{
+  width: 200px;
+  height: 30px;
+  background-color: #a0a3ab;
+
+  border-radius: 10px;
+}
+
+

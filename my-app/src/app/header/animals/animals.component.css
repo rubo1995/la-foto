@@ -1,0 +1,171 @@
+.animale{
+  width: 100%;
+  height: 1800px;
+  padding-top: 150px;
+  padding-left: 10px;
+  float: left;
+
+}
+
+.on1{
+  width: 300px;
+  height: 200px;
+  background-image: url("./picture/on.jpg");
+
+}
+
+.visib{
+  width: 80%;
+  height: 30%;
+  background-image: url("./picture/original/alice-donov.jpg");
+
+
+}
+.on2{
+  width: 300px;
+  height: 200px;
+  background-image: url("./picture/on2.jpg");
+
+}
+.on3{
+  width: 300px;
+  height: 200px;
+  background-image: url("./picture/3.jpg");
+
+}
+.on4{
+  width: 300px;
+  height: 200px;
+  background-image: url("./picture/4.jpg");
+
+}
+.on5{
+  width: 300px;
+  height: 200px;
+  background-image: url("./picture/5.jpg");
+
+}
+.on6{
+  width: 300px;
+  height: 200px;
+  background-image: url("./picture/6.jpg");
+
+}
+.on7{
+  width: 300px;
+  height: 200px;
+  background-image: url("./picture/7.jpg");
+
+}
+.on8{
+  width: 300px;
+  height: 200px;
+  background-image: url("./picture/8.jpg");
+
+}
+.on9{
+  width: 300px;
+  height:200px;
+  background-image: url("./picture/9.jpg");
+
+}
+.on10{
+  width: 300px;
+  height: 200px;
+  background-image: url("./picture/10.jpg");
+
+}
+.on11{
+  width: 300px;
+  height: 200px;
+  background-image: url("./picture/11.jpg");
+
+}
+.on12{
+  width: 300px;
+  height: 200px;
+  background-image: url("./picture/12.jpg");
+
+}
+.on13{
+  width: 300px;
+  height: 200px;
+  background-image: url("./picture/13.jpg");
+
+}
+.on14{
+  width: 300px;
+  height: 200px;
+  background-image: url("./picture/14.jpg");
+
+}
+.on15{
+  width: 300px;
+  height: 200px;
+  background-image: url("./picture/15.jpg");
+
+}
+.on16{
+  width: 300px;
+  height: 200px;
+  background-image: url("./picture/16.jpg");
+
+}
+.on17{
+  width: 300px;
+  height:200px;
+  background-image: url("./picture/17.jpg");
+
+}
+.on18{
+  width: 300px;
+  height: 200px;
+  background-image: url("./picture/18.jpg");
+
+}
+.on19{
+  width: 300px;
+  height: 200px;
+  background-image: url("./picture/19.jpg");
+
+}
+.on20{
+  width: 300px;
+  height: 200px;
+  background-image: url("./picture/20.jpg");
+
+}
+.on21{
+  width: 300px;
+  height: 200px;
+  background-image: url("./picture/21.jpg");
+
+}
+.on22{
+  width: 300px;
+  height: 200px;
+  background-image: url("./picture/22.jpg");
+
+}
+.on23{
+  width: 300px;
+  height: 200px;
+  background-image: url("./picture/23.jpg");
+
+}
+
+.on24{
+  width: 300px;
+  height:200px;
+  background-image: url("./picture/24.jpg");
+
+}
+
+.animale{
+  display: flex;
+  display: -webkit-flex;
+  flex-flow: row wrap;
+  justify-content:space-evenly;
+
+
+}

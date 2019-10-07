@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="375193ce-60d2-457a-8cdc-ca6ade91004f" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-app/src/app/header/nature/nature.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-app/src/app/header/nature/nature.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/my-app/src/app/header/nature/nature.component.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="424">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-app/src/app/header/animals/animals.component.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>30%</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>20</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/my-app/src/app/web/web.component.css" />
+        <option value="$PROJECT_DIR$/my-app/src/app/home/home.component.ts" />
+        <option value="$PROJECT_DIR$/my-app/src/app/menu/menu.component.ts" />
+        <option value="$PROJECT_DIR$/my-app/src/app/about/about.component.css" />
+        <option value="$PROJECT_DIR$/my-app/src/app/about/about.component.ts" />
+        <option value="$PROJECT_DIR$/my-app/src/app/web/web.component.html" />
+        <option value="$PROJECT_DIR$/my-app/src/app/web/web.component.ts" />
+        <option value="$PROJECT_DIR$/my-app/src/index.html" />
+        <option value="$PROJECT_DIR$/my-app/src/app/app.component.css" />
+        <option value="$PROJECT_DIR$/my-app/src/app/app-routing.module.ts" />
+        <option value="$PROJECT_DIR$/my-app/package.json" />
+        <option value="$PROJECT_DIR$/my-app/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/my-app/db.json" />
+        <option value="$PROJECT_DIR$/my-app/src/app/sss.service.ts" />
+        <option value="$PROJECT_DIR$/my-app/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/my-app/src/app/app.module.ts" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/index.html" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/index.css" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/index.js" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.html" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.html" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.js" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.css" />
+        <option value="$PROJECT_DIR$/my-app/src/app/header/header.component.css" />
+        <option value="$PROJECT_DIR$/my-app/src/app/header/header.component.html" />
+        <option value="$PROJECT_DIR$/my-app/src/app/header/home/home.component.ts" />
+        <option value="$PROJECT_DIR$/my-app/src/app/header/home/home.component.html" />
+        <option value="$PROJECT_DIR$/my-app/src/app/header/home/home.component.css" />
+        <option value="$PROJECT_DIR$/my-app/src/app/header/cars/cars.component.css" />
+        <option value="$PROJECT_DIR$/my-app/src/app/header/cars/cars.component.html" />
+        <option value="$PROJECT_DIR$/my-app/src/app/header/cars/cars.component.ts" />
+        <option value="$PROJECT_DIR$/my-app/src/app/header/animals/animals.component.ts" />
+        <option value="$PROJECT_DIR$/my-app/src/app/header/animals/animals.component.css" />
+        <option value="$PROJECT_DIR$/my-app/src/app/header/header.component.ts" />
+        <option value="$PROJECT_DIR$/my-app/src/app/header/animals/animals.component.html" />
+        <option value="$PROJECT_DIR$/my-app/src/app/header/nature/nature.component.html" />
+        <option value="$PROJECT_DIR$/my-app/src/app/header/nature/nature.component.ts" />
+        <option value="$PROJECT_DIR$/my-app/src/app/header/nature/nature.component.css" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="151" />
+    <option name="y" value="5" />
+    <option name="width" value="1036" />
+    <option name="height" value="715" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="my-ap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-ap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-ap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-ap" type="462c0819:PsiDirectoryNode" />
+              <item name="my-app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-ap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-ap" type="462c0819:PsiDirectoryNode" />
+              <item name="my-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-ap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-ap" type="462c0819:PsiDirectoryNode" />
+              <item name="my-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-ap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-ap" type="462c0819:PsiDirectoryNode" />
+              <item name="my-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="header" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-ap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-ap" type="462c0819:PsiDirectoryNode" />
+              <item name="my-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="header" type="462c0819:PsiDirectoryNode" />
+              <item name="animals" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-ap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-ap" type="462c0819:PsiDirectoryNode" />
+              <item name="my-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="header" type="462c0819:PsiDirectoryNode" />
+              <item name="nature" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML&#10;CSS&#10;Angular2Html" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Users\comp\Desktop\angular\my-ap\my-app\node_modules\typescript\lib" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="375193ce-60d2-457a-8cdc-ca6ade91004f" name="Default Changelist" comment="" />
+      <created>1562844040873</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562844040873</updated>
+      <workItem from="1562844043283" duration="731000" />
+      <workItem from="1562851670895" duration="714000" />
+      <workItem from="1562913064557" duration="2054000" />
+      <workItem from="1563015172920" duration="187000" />
+      <workItem from="1563200958383" duration="84000" />
+      <workItem from="1563220272564" duration="1727000" />
+      <workItem from="1563222032198" duration="1781000" />
+      <workItem from="1563223846169" duration="252000" />
+      <workItem from="1563256007901" duration="1427000" />
+      <workItem from="1563298683734" duration="649000" />
+      <workItem from="1563307357429" duration="1310000" />
+      <workItem from="1563341483714" duration="1561000" />
+      <workItem from="1563343629120" duration="34000" />
+      <workItem from="1563448522586" duration="243000" />
+      <workItem from="1564213580712" duration="85000" />
+      <workItem from="1564320897906" duration="1695000" />
+      <workItem from="1564322631039" duration="930000" />
+      <workItem from="1564324479243" duration="1783000" />
+      <workItem from="1564326293654" duration="391000" />
+      <workItem from="1564332724018" duration="35000" />
+      <workItem from="1564424625842" duration="150000" />
+      <workItem from="1564479917100" duration="30000" />
+      <workItem from="1564559354700" duration="650000" />
+      <workItem from="1564767323911" duration="1820000" />
+      <workItem from="1564822795046" duration="22000" />
+      <workItem from="1564825672345" duration="650000" />
+      <workItem from="1564828819963" duration="1808000" />
+      <workItem from="1564830667623" duration="2110000" />
+      <workItem from="1564843376384" duration="1263000" />
+      <workItem from="1564846689034" duration="1505000" />
+      <workItem from="1564988904344" duration="1727000" />
+      <workItem from="1564990745548" duration="1222000" />
+      <workItem from="1565018328072" duration="618000" />
+      <workItem from="1565176601502" duration="1821000" />
+      <workItem from="1565186486830" duration="1720000" />
+      <workItem from="1565188283393" duration="1761000" />
+      <workItem from="1565196896985" duration="1360000" />
+      <workItem from="1565199293468" duration="18000" />
+      <workItem from="1565339002188" duration="669000" />
+      <workItem from="1565455648742" duration="451000" />
+      <workItem from="1565512794094" duration="590000" />
+      <workItem from="1565635189805" duration="48000" />
+      <workItem from="1565773028232" duration="1614000" />
+      <workItem from="1565774706357" duration="1163000" />
+      <workItem from="1565780584719" duration="1578000" />
+      <workItem from="1565853679442" duration="1659000" />
+      <workItem from="1565855445871" duration="850000" />
+      <workItem from="1565894852886" duration="499000" />
+      <workItem from="1565895692706" duration="608000" />
+      <workItem from="1565896964933" duration="1740000" />
+      <workItem from="1565898855518" duration="1055000" />
+      <workItem from="1565939652545" duration="1719000" />
+      <workItem from="1565941431058" duration="841000" />
+      <workItem from="1565945057660" duration="722000" />
+      <workItem from="1565976022201" duration="1732000" />
+      <workItem from="1565977789744" duration="1809000" />
+      <workItem from="1565979661500" duration="246000" />
+      <workItem from="1565980110216" duration="739000" />
+      <workItem from="1566027925323" duration="622000" />
+      <workItem from="1566816381822" duration="1278000" />
+      <workItem from="1566845148197" duration="854000" />
+      <workItem from="1567071353294" duration="1738000" />
+      <workItem from="1567073132467" duration="1639000" />
+      <workItem from="1567081773659" duration="705000" />
+      <workItem from="1567439391304" duration="1695000" />
+      <workItem from="1567446546723" duration="355000" />
+      <workItem from="1567500108986" duration="1759000" />
+      <workItem from="1567501904196" duration="893000" />
+      <workItem from="1567503738388" duration="616000" />
+      <workItem from="1567581984743" duration="761000" />
+      <workItem from="1567619466072" duration="273000" />
+      <workItem from="1567750425989" duration="1663000" />
+      <workItem from="1567790759017" duration="1818000" />
+      <workItem from="1567792678705" duration="1398000" />
+      <workItem from="1567837150289" duration="2001000" />
+      <workItem from="1567839225134" duration="206000" />
+      <workItem from="1567859604124" duration="1712000" />
+      <workItem from="1567861373512" duration="2266000" />
+      <workItem from="1567863686366" duration="2017000" />
+      <workItem from="1567866613913" duration="4000" />
+      <workItem from="1567868243635" duration="1577000" />
+      <workItem from="1567925217037" duration="634000" />
+      <workItem from="1567928749359" duration="1459000" />
+      <workItem from="1567939367292" duration="2013000" />
+      <workItem from="1567941412629" duration="602000" />
+      <workItem from="1567942590385" duration="1621000" />
+      <workItem from="1567944427887" duration="167000" />
+      <workItem from="1567967113852" duration="1709000" />
+      <workItem from="1567968904940" duration="1373000" />
+      <workItem from="1568009858852" duration="1740000" />
+      <workItem from="1568011696852" duration="1811000" />
+      <workItem from="1568017489053" duration="824000" />
+      <workItem from="1568025767579" duration="1774000" />
+      <workItem from="1568027594940" duration="126000" />
+      <workItem from="1568032167606" duration="2091000" />
+      <workItem from="1568034461682" duration="1778000" />
+      <workItem from="1568036279063" duration="1938000" />
+      <workItem from="1568038981618" duration="310000" />
+      <workItem from="1568046148856" duration="1761000" />
+      <workItem from="1568047948862" duration="1774000" />
+      <workItem from="1568049763572" duration="1748000" />
+      <workItem from="1568095644038" duration="1710000" />
+      <workItem from="1568097695255" duration="1788000" />
+      <workItem from="1568099519718" duration="942000" />
+      <workItem from="1568102480253" duration="1640000" />
+      <workItem from="1568116043520" duration="268000" />
+      <workItem from="1568137866738" duration="501000" />
+      <workItem from="1568186160069" duration="1858000" />
+      <workItem from="1568188541015" duration="1772000" />
+      <workItem from="1568190354805" duration="1777000" />
+      <workItem from="1568192170139" duration="1305000" />
+      <workItem from="1568209986073" duration="251000" />
+      <workItem from="1568270931981" duration="949000" />
+      <workItem from="1568314193425" duration="423000" />
+      <workItem from="1568389761483" duration="1771000" />
+      <workItem from="1568391563035" duration="1789000" />
+      <workItem from="1568393388739" duration="1883000" />
+      <workItem from="1568445426184" duration="1094000" />
+      <workItem from="1568452242642" duration="1779000" />
+      <workItem from="1568454091779" duration="598000" />
+      <workItem from="1568457242561" duration="1719000" />
+      <workItem from="1568472067599" duration="1300000" />
+      <workItem from="1568473978742" duration="1777000" />
+      <workItem from="1568475799790" duration="599000" />
+      <workItem from="1568479322111" duration="1781000" />
+      <workItem from="1568481144376" duration="1777000" />
+      <workItem from="1568482959991" duration="773000" />
+      <workItem from="1568530840586" duration="1732000" />
+      <workItem from="1568559357278" duration="1330000" />
+      <workItem from="1568561338880" duration="9000" />
+      <workItem from="1568567750503" duration="1283000" />
+      <workItem from="1568617647292" duration="1429000" />
+      <workItem from="1568629703976" duration="62000" />
+      <workItem from="1568635639470" duration="1906000" />
+      <workItem from="1568637579465" duration="1311000" />
+      <workItem from="1568648167371" duration="1716000" />
+      <workItem from="1568649926649" duration="18000" />
+      <workItem from="1568650648198" duration="1601000" />
+      <workItem from="1568652990161" duration="1777000" />
+      <workItem from="1568654802976" duration="1562000" />
+      <workItem from="1568657208338" duration="142000" />
+      <workItem from="1568702598548" duration="178000" />
+      <workItem from="1568719517929" duration="898000" />
+      <workItem from="1568734286932" duration="1946000" />
+      <workItem from="1568736277035" duration="1776000" />
+      <workItem from="1568738088735" duration="1912000" />
+      <workItem from="1568740048186" duration="1935000" />
+      <workItem from="1568744550652" duration="1570000" />
+      <workItem from="1568786560088" duration="670000" />
+      <workItem from="1568794455568" duration="212000" />
+      <workItem from="1568794982909" duration="1249000" />
+      <workItem from="1568796265675" duration="1780000" />
+      <workItem from="1568798077975" duration="1853000" />
+      <workItem from="1568873434425" duration="1727000" />
+      <workItem from="1568875204026" duration="776000" />
+      <workItem from="1568877834097" duration="1516000" />
+      <workItem from="1568879648994" duration="2060000" />
+      <workItem from="1568890175797" duration="615000" />
+      <workItem from="1568893455124" duration="1763000" />
+      <workItem from="1568895254038" duration="945000" />
+      <workItem from="1568917250078" duration="1519000" />
+      <workItem from="1568919110853" duration="2185000" />
+      <workItem from="1568922101987" duration="1046000" />
+      <workItem from="1568960929529" duration="1599000" />
+      <workItem from="1568962893248" duration="722000" />
+      <workItem from="1569045551458" duration="1344000" />
+      <workItem from="1569172750567" duration="1271000" />
+      <workItem from="1569174613405" duration="1749000" />
+      <workItem from="1569177016290" duration="931000" />
+      <workItem from="1569179112186" duration="1068000" />
+      <workItem from="1569235069292" duration="628000" />
+      <workItem from="1569257758326" duration="469000" />
+      <workItem from="1569308486906" duration="1246000" />
+      <workItem from="1569310792125" duration="1771000" />
+      <workItem from="1569319772892" duration="691000" />
+      <workItem from="1569333061835" duration="1369000" />
+      <workItem from="1569344618982" duration="1767000" />
+      <workItem from="1569346469908" duration="1415000" />
+      <workItem from="1569395094416" duration="1150000" />
+      <workItem from="1569412845529" duration="19000" />
+      <workItem from="1569413502276" duration="616000" />
+      <workItem from="1569525343245" duration="904000" />
+      <workItem from="1569574104770" duration="1772000" />
+      <workItem from="1569575918227" duration="1796000" />
+      <workItem from="1569577757490" duration="794000" />
+      <workItem from="1569765111537" duration="1715000" />
+      <workItem from="1569766870326" duration="1703000" />
+      <workItem from="1569769495484" duration="1651000" />
+      <workItem from="1569774249717" duration="1026000" />
+      <workItem from="1569775313561" duration="1291000" />
+      <workItem from="1569784109528" duration="1781000" />
+      <workItem from="1569785927799" duration="110000" />
+      <workItem from="1569914325063" duration="758000" />
+      <workItem from="1570000360629" duration="1734000" />
+      <workItem from="1570002740060" duration="1775000" />
+      <workItem from="1570004556783" duration="1776000" />
+      <workItem from="1570006378795" duration="1770000" />
+      <workItem from="1570009940012" duration="649000" />
+      <workItem from="1570010714970" duration="1808000" />
+      <workItem from="1570012692782" duration="1303000" />
+      <workItem from="1570016116268" duration="2212000" />
+      <workItem from="1570018372430" duration="277000" />
+      <workItem from="1570018694241" duration="1532000" />
+      <workItem from="1570047665782" duration="1378000" />
+      <workItem from="1570084094723" duration="1758000" />
+      <workItem from="1570086135127" duration="2356000" />
+      <workItem from="1570088714457" duration="1303000" />
+      <workItem from="1570092177282" duration="2223000" />
+      <workItem from="1570104520480" duration="1022000" />
+      <workItem from="1570120372668" duration="1711000" />
+      <workItem from="1570122176137" duration="1732000" />
+      <workItem from="1570123952425" duration="1433000" />
+      <workItem from="1570125852991" duration="1150000" />
+      <workItem from="1570174528683" duration="1519000" />
+      <workItem from="1570176291606" duration="1760000" />
+      <workItem from="1570181186014" duration="770000" />
+      <workItem from="1570184291613" duration="692000" />
+      <workItem from="1570211527069" duration="52000" />
+      <workItem from="1570262584389" duration="966000" />
+      <workItem from="1570381640177" duration="830000" />
+      <workItem from="1570389264218" duration="44000" />
+      <workItem from="1570389626602" duration="597000" />
+      <workItem from="1570440125090" duration="1509000" />
+      <workItem from="1570443632686" duration="711000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="268674000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17170112" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32949308" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.89109695" visible="true" weight="0.31912443" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.10890302" side_tool="true" weight="0.21428572" />
+      <window_info anchor="bottom" id="TypeScript" order="11" weight="0.32949308" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19952305" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32949308" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.89109695" visible="true" weight="0.09562212" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.10890302" side_tool="true" weight="0.21428572" />
+      <window_info anchor="bottom" id="TypeScript" order="11" weight="0.32949308" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/my-app/src/app/eee/eee.component.ts" />
+    <entry file="file://$PROJECT_DIR$/my-app/src/app/web/web.component.ts" />
+    <entry file="file://$PROJECT_DIR$/my-app/src/app/web/web.component.html" />
+    <entry file="file://$PROJECT_DIR$/my-app/node_modules/bootstrap/dist/css/bootstrap-grid.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/node_modules/bootstrap/dist/css/bootstrap-grid.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/node_modules/bootstrap/dist/css/bootstrap-grid.min.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/node_modules/bootstrap/dist/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1632" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/app/about/about.component.html" />
+    <entry file="file://$PROJECT_DIR$/my-app/src/app/about/about.component.css" />
+    <entry file="file://$PROJECT_DIR$/my-app/src/app/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/node_modules/@angular/core/core.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4212" column="4" selection-start-line="4212" selection-start-column="4" selection-end-line="4212" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/app/sss.service.spec.ts" />
+    <entry file="file://$PROJECT_DIR$/my-app/db.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="57" selection-start-line="3" selection-start-column="57" selection-end-line="3" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/app/sss.service.ts" />
+    <entry file="file://$PROJECT_DIR$/my-app/src/app/header/sea/sea.component.ts" />
+    <entry file="file://$PROJECT_DIR$/my-app/src/app/header/sea/sea.component.html" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/index">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/app/app.component.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/app/header/ADMIN/admin/admin.component.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/CARS.url" />
+    <entry file="file://$PROJECT_DIR$/my-app/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-119">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/app/header/header.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="43" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/app/header/header.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/app/header/home/home.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/app/header/cars/cars.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/app/header/cars/cars.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/app/header/cars/cars.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/app/header/home/home.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/app/header/home/home.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/angular.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/app/header/header.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/app/header/animals/animals.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/app/header/animals/animals.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="8" selection-start-line="14" selection-start-column="2" selection-end-line="16" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/app/header/nature/nature.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/app/header/nature/nature.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/app/header/animals/animals.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/app/header/nature/nature.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

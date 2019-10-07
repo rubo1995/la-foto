@@ -1,0 +1,336 @@
+
+
+.nkar {
+  margin-top: 80px;
+  width: 100%;
+  height: 600px;
+  background-repeat: no-repeat;
+  padding: 0;
+
+
+}
+
+.nkar1{
+  width: 100%;
+  height: 600px;
+  background-image: url("./nkar/glav1.jpg");
+
+}
+.nkar2{
+  width: 100%;
+  height: 600px;
+  background-image: url("./nkar/glav2.jpg");
+  display: none;
+
+}
+.nkar3{
+  width: 100%;
+  height: 600px;
+  background-image: url("./nkar/glav3.jpg");
+  display: none;
+}
+.nkar4{
+  width: 100%;
+  height: 600px;
+  background-image: url("./nkar/glav4.jpg");
+  display: none;
+}
+.nkar5{
+  width: 100%;
+  height: 600px;
+  background-image: url("./nkar/glav5.jpg");
+  display: none;
+}
+.nkar6{
+  width: 100%;
+  height: 600px;
+  background-image: url("./nkar/glav6.jpg");
+  display: none;
+}
+.nkar7{
+  width: 100%;
+  height: 600px;
+  background-image: url("./nkar/glav7.jpg");
+  display: none;
+}
+
+
+
+
+
+.pickcher_text{
+  width: 100%;
+  height: 80px;
+  background-color:	 #4dffd2;
+}
+
+.pickcher_text h1{
+  padding: 10px;
+  color:white ;
+  text-align: center;
+}
+.footer_nkar{
+  width: 100%;
+  height: 40px;
+  background-color: white;
+}
+.category{
+  width: 100%;
+  height: 900px;
+  background-color: white;
+}
+.category .top{
+  margin-top: 5%;
+  width: 100%;
+  height: 360px;
+  display: inline-flex;
+
+
+}
+p a{
+
+  color: white;
+  text-decoration: none;
+}
+.left{
+  width: 100%;
+  height: 350px;
+}
+.nature{
+  width: 60%;
+  height: 300px;
+  background-image: url("./nkar/natur.jpg");
+  border:4px solid  #4dffd2;
+  margin-top: 7%;
+ margin-left: 30%;
+  margin-right: 5%;
+  transition: 0.5s;
+}
+.natu{
+  color:white;
+}
+.nature p{
+  font-size: 500%;
+  color:white;
+  text-align: center;
+  margin-top: 30%;
+  display: none;
+
+}
+.nature:hover p{
+  display: block;
+
+}
+.nature:hover{
+  width: 60%;
+  height: 300px;
+  background-image: url("./nkar/natur.jpg");
+  border:4px solid  #4dffd2;
+  padding: 10px;
+  box-shadow: 20px 20px 10px 10px #888888;
+  margin-top: 1%;
+  margin-left: 25%;
+  margin-right:10%;
+
+}
+.right{
+  width: 100%;
+  height: 350px;
+}
+.animal{
+  width: 60%;
+  height: 300px;
+  background-image: url("./nkar/ani.jpg");
+  border:4px solid  #4dffd2;
+  margin-top: 7%;
+  margin-left: 5%;
+  margin-right: 30%;
+  transition: 0.5s;
+}
+.animal p{
+  font-size: 500%;
+  color:white;
+  text-align: center;
+  margin-top: 30%;
+  display: none;
+
+}
+.animal:hover p{
+  display: block;
+
+}
+.animal:hover{
+  width: 60%;
+  height: 300px;
+  background-image: url("./nkar/ani.jpg");
+  border:4px solid  #4dffd2;
+  padding: 10px;
+  box-shadow: -20px 20px 10px 10px #888888;
+  margin-top: 1%;
+  margin-left: 10%;
+  margin-right: 25%;
+}
+
+
+.category .bottom{
+  margin-top:5% ;
+  width: 100%;
+  height: 400px;
+  display: inline-flex;
+}
+
+.bottom_left{
+  width: 100%;
+  height: 350px;
+}
+
+.cars{
+  width: 60%;
+  height: 300px;
+  background-image: url("./nkar/car.jpg");
+  border:4px solid  #4dffd2;
+  margin-top: 7%;
+  margin-left: 30%;
+  margin-right: 5%;
+  transition: 0.5s;
+}
+.cars p{
+  font-size: 500%;
+  color:white;
+  text-align: center;
+  margin-top: 30%;
+  display: none;
+
+}
+.cars:hover p{
+  display: block;
+
+}
+.cars:hover{
+  width: 60%;
+  height: 300px;
+  background-image: url("./nkar/car.jpg");
+  border:4px solid  #4dffd2;
+  padding: 10px;
+  box-shadow: 20px 20px 10px 10px #888888;
+  margin-top: 1%;
+  margin-left: 25%;
+  margin-right: 10%;
+}
+.bottom_right{
+  width: 100%;
+  height: 350px;
+
+}
+
+
+.city{
+  width: 60%;
+  height: 300px;
+  background-image: url("./nkar/cit.jpg");
+  border:4px solid  #4dffd2;
+  margin-top: 7%;
+  margin-left: 5%;
+  margin-right: 30%;
+  transition: 0.5s;
+
+}
+.city p{
+  font-size: 500%;
+  color:white;
+  text-align: center;
+  margin-top: 30%;
+  display: none;
+
+}
+.city:hover p{
+  display: block;
+
+}
+
+.city:hover {
+  width: 60%;
+  height: 300px;
+  background-image: url("./nkar/cit.jpg");
+  border:4px solid  #4dffd2;
+  padding: 10px;
+  box-shadow: -20px 20px  10px 10px#888888 ;
+  margin-top: 1%;
+  margin-left: 10%;
+  margin-right: 25%;
+  cursor: pointer;
+
+}
+
+
+.helptext{
+  width: 100%;
+  height: 735px;
+  display: inline-flex;
+}
+.leftt{
+  width: 50%;
+  height: 100%;
+  background-color: white;
+
+
+}
+.leftt h1{
+  text-align: center;
+  color:#4dffd2 ;
+
+}
+.leftt p{
+  color: dimgrey;
+}
+.rigt{
+  width: 50%;
+  height: 100%;
+  background-image: url("./nkar/non.jpg");
+  border-left:2px solid #4dffd2;
+  border-top:2px solid #4dffd2;
+
+
+}
+
+.footer{
+  width: 100%;
+  height: 300px;
+  background-color: #242529;
+}
+
+h2{
+  color:#00b386;
+  padding-top: 5%;
+  padding-left: 20%;
+}
+ ul {
+  list-style: none;
+
+}
+ li a{
+   float:right;
+   color: papayawhip;;
+   text-decoration: none;
+   margin-right: 30px;
+ }
+h5{
+  color:papayawhip;
+  margin-left: 35%;
+  margin-top: 30px;
+
+}
+
+.bord{
+  width: 80%;
+  height: 1px;
+  background-color: #00b386;
+ margin-top: 50px;
+ margin-left: 10%;
+}
+h6{
+  color:papayawhip;
+  margin-left: 40%;
+  margin-top: 2%;
+
+}
