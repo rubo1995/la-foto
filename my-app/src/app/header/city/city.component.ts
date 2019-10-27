@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 
+
 @Component({
   selector: 'app-city',
   templateUrl: './city.component.html',
@@ -7,7 +8,12 @@ import { Component, OnInit } from '@angular/core';
 })
 export class CityComponent implements OnInit {
 
-  constructor() { }
+
+  constructor() {
+
+
+  }
+
 
   ngOnInit() {
   }

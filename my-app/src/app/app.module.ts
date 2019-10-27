@@ -28,7 +28,7 @@ const appRoutes: Routes =[
   {path:'Cars',component:CarsComponent},
   {path:'City',component:CityComponent},
   {path:'**',component:NotFoundComponent},
-]
+];
 
 
 
@@ -69,6 +69,7 @@ const appRoutes: Routes =[
     FormsModule,
     HttpClientModule,
     RouterModule.forRoot(appRoutes)
+
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -1,32 +1,61 @@
+#body{
+
+}
+
 .imj{
   width: 100%;
-  height: 1000px;
+  height: 100%;
   float:left;
-  margin-top: 10%;
+  padding: 1%;
+  margin-top: 6%;
+  background-color: dimgrey;
 
 }
 .imj img{
   width: 300px;
   height: 250px;
   padding: 0.5%;
+  margin-left: 0.2%;
+  margin-right: 0.2%;
+
 
 }
 
-.visib{
-  width: 70%;
-  height: 60%;
- margin-left: 15%;
-  background-image: url("mec.jpg");
-  border:2px solid green;
+.dod{
+  width: 100%;
+  height: 800px;
+  margin-top: 5%;
+  position: relative;
+  cursor: pointer;
 
 }
+.dod img{
+  width: 100%;
+  height: 700px;
+}
+.download{
+  width: 120px;
+  height:35px ;
+  background-color: #00b386;
+  text-align: center;
+  padding-top: 0.3%;
+  color: white;
+  border-radius: 10px 0 0 10px  ;
+  position: absolute;
+  right: 70px;
+  top:-30px;
+}
 
-.vist{
-  width: 70%;
-  height: 60%;
-  margin-left: 15%;
-  background-image: url("3.jpg");
-  border:2px solid green;
-
+.closed{
+  width: 40px;
+  height: 35px;
+  position: absolute;
+  background-color:red;
+  border-radius:  0 10px 10px 0;
+  text-align: center;
+  color: white;
+  top: -30px;
+  right: 30px;
+  z-index: 5;
 }
 
