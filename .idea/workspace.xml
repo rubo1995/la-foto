@@ -2,103 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="375193ce-60d2-457a-8cdc-ca6ade91004f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/my-app/src/app/header/registration/registration.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/app/header/registration/registration.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/app/header/registration/registration.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/animals.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/app/header/animals/animals.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/animals.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/app/header/animals/animals.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/animals.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/app/header/animals/animals.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/26.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/on.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/on2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/original/alice-donov.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/original/eric-welch-XucH5JNRFig-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/original/frida-bredesen-LNSIGPuZXIg-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/original/george-brits-wvO5tPfTpug-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/original/hunter-folsom-xR3hdMS3Imw-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/original/irene-davila-t2XHKIdc4Kw-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/original/jared-rice-O6DUoIl6NWA-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/original/jay-ruzesky-h13Y8vyIXNU-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/original/jeremy-bishop-hppWAs2WTZU-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/original/joel-herzog-dNYIGwQqAtI-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/original/jp-valery-xls6uaTIhaI-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/original/kace-rodriguez-pMK84mYVwTA-unsplash (2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/original/luis-mezquita-V7RugxejXH8-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/original/maarten-van-den-heuvel--I0EgcZdV0E-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/original/markus-knoll-woUfEMSLbnw-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/original/martin-knize-jfQCT6XifkY-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/original/mike-holford-xHnb8UeZnmg-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/original/nathan-anderson-qZJajnlnPSw-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/original/nathan-lemon-pd4iy18AhtI-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/original/nicholas-kampouris-H_M4dX_F1LQ-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/original/paula-borowska-OM7CvKnhjfs-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/original/photo-nic-co-uk-nic-zc4MEZMdXhc-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/original/ravi-singh-rN3dqzDrhdk-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/original/ray-hennessy-xUUZcpQlqpM-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/original/rebecca-johnston-7e89MSusYE8-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/original/roksolana-zasiadko-JVu3_fQ_7Ek-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/original/samuel-scrimshaw-KeUKM5N-e_g-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/original/sergey-pesterev-QFJpwek20g4-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/original/vladimir-kudinov-vmlJcey6HEU-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/po.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/animals/picture/roksolana-zasiadko-JVu3_fQ_7Ek-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/assets/pic.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/cars/cars.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/app/header/cars/cars.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/cars/cars.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/app/header/cars/cars.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/cars/cars.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/app/header/cars/cars.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/cars/pictr/pic.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/city/city.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/app/header/city/city.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/city/city.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/app/header/city/city.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/city/city.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/app/header/city/city.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/header.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/app/header/header.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/header.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/header.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/app/header/header.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/home/home.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/app/header/home/home.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/home/home.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/app/header/home/home.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/home/nkar/emile-perron-xrVDYZRGdw4-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/home/nkar/eyd.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/home/nkar/glav (2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/home/nkar/glav3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/home/nkar/glav4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/home/nkar/glav5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/home/nkar/glav7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/home/nkar/glav9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/home/nkar/nkar8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/home/nkar/non.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/app/header/home/nkar/non.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/home/nkar/on.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/home/nkar/se.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/home/nkar/si.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/home/nkar/thr.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/home/nkar/tw.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/nature/nature.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/app/header/nature/nature.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/nature/nature.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/app/header/nature/nature.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app/header/nature/nature.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/app/header/nature/nature.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/assets/15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/assets/15.jpg" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -110,26 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my-app/src/app/header/registration/registration.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="15" selection-start-column="15" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/my-app/src/app/header/registration/registration.component.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -631,7 +516,7 @@
       <workItem from="1572515428477" duration="395000" />
       <workItem from="1572528480521" duration="1125000" />
       <workItem from="1572529693222" duration="593000" />
-      <workItem from="1572535580103" duration="494000" />
+      <workItem from="1572535580103" duration="1218000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit&#10;- Add my project">
       <created>1570445072497</created>
@@ -661,15 +546,21 @@
       <option name="project" value="LOCAL" />
       <updated>1572186978976</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Initial commit&#10;- Add my project">
+      <created>1572536159774</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1572536159774</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="362770000" />
+    <option name="totallyTimeSpent" value="363494000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2591415" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
