@@ -10,7 +10,7 @@ export class HeaderComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
-    window.onscroll = function() {op()};
+   /* window.onscroll = function() {op()};
       let div = document.getElementById("ok");
      let sticky = div.offsetTop;
     function op() {
@@ -19,7 +19,7 @@ export class HeaderComponent implements OnInit {
       }else {
         //div.style.backgroundColor = "#242529 ";
       }
-    }
+    }*/
 
   }
 }

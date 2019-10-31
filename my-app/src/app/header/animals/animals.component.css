@@ -1,171 +1,65 @@
+#body{
+
+}
+
 .animale{
   width: 100%;
-  height: 1800px;
-  padding-top: 150px;
-  padding-left: 10px;
-  float: left;
+  height: 100%;
+  float:left;
+  padding: 1%;
+  margin-top: 6%;
+  background-color: #d6e1d6;
+
+}
+.animale img{
+  width: 24%;
+  height: 250px;
+  padding: 0.5%;
+  margin-left: 0.4%;
+  margin-right: 0.4%;
+
 
 }
 
-.on1{
-  width: 300px;
-  height: 200px;
-  background-image: url("./picture/on.jpg");
+.dod{
+  width: 100%;
+  height: 800px;
+  margin-top: 5%;
+  position: relative;
+  cursor: pointer;
 
 }
-
-.visib{
-  width: 80%;
-  height: 30%;
-  background-image: url("./picture/original/alice-donov.jpg");
-
-
+.dod img{
+  width: 90%;
+  height: 700px;
+  margin-left: 5%;
+  margin-right: 5%;
 }
-.on2{
-  width: 300px;
-  height: 200px;
-  background-image: url("./picture/on2.jpg");
-
-}
-.on3{
-  width: 300px;
-  height: 200px;
-  background-image: url("./picture/3.jpg");
-
-}
-.on4{
-  width: 300px;
-  height: 200px;
-  background-image: url("./picture/4.jpg");
-
-}
-.on5{
-  width: 300px;
-  height: 200px;
-  background-image: url("./picture/5.jpg");
-
-}
-.on6{
-  width: 300px;
-  height: 200px;
-  background-image: url("./picture/6.jpg");
-
-}
-.on7{
-  width: 300px;
-  height: 200px;
-  background-image: url("./picture/7.jpg");
-
-}
-.on8{
-  width: 300px;
-  height: 200px;
-  background-image: url("./picture/8.jpg");
-
-}
-.on9{
-  width: 300px;
-  height:200px;
-  background-image: url("./picture/9.jpg");
-
-}
-.on10{
-  width: 300px;
-  height: 200px;
-  background-image: url("./picture/10.jpg");
-
-}
-.on11{
-  width: 300px;
-  height: 200px;
-  background-image: url("./picture/11.jpg");
-
-}
-.on12{
-  width: 300px;
-  height: 200px;
-  background-image: url("./picture/12.jpg");
-
-}
-.on13{
-  width: 300px;
-  height: 200px;
-  background-image: url("./picture/13.jpg");
-
-}
-.on14{
-  width: 300px;
-  height: 200px;
-  background-image: url("./picture/14.jpg");
-
-}
-.on15{
-  width: 300px;
-  height: 200px;
-  background-image: url("./picture/15.jpg");
-
-}
-.on16{
-  width: 300px;
-  height: 200px;
-  background-image: url("./picture/16.jpg");
-
-}
-.on17{
-  width: 300px;
-  height:200px;
-  background-image: url("./picture/17.jpg");
-
-}
-.on18{
-  width: 300px;
-  height: 200px;
-  background-image: url("./picture/18.jpg");
-
-}
-.on19{
-  width: 300px;
-  height: 200px;
-  background-image: url("./picture/19.jpg");
-
-}
-.on20{
-  width: 300px;
-  height: 200px;
-  background-image: url("./picture/20.jpg");
-
-}
-.on21{
-  width: 300px;
-  height: 200px;
-  background-image: url("./picture/21.jpg");
-
-}
-.on22{
-  width: 300px;
-  height: 200px;
-  background-image: url("./picture/22.jpg");
-
-}
-.on23{
-  width: 300px;
-  height: 200px;
-  background-image: url("./picture/23.jpg");
-
+.dowonload{
+  width: 120px;
+  height:35px ;
+  background-color: #00b386;
+  text-align: center;
+  padding-top: 0.3%;
+  color: white;
+  border-radius: 10px 0 0 10px  ;
+  position: absolute;
+  right:8%;
+  top:-30px;
 }
 
-.on24{
-  width: 300px;
-  height:200px;
-  background-image: url("./picture/24.jpg");
-
+.closed{
+  width: 40px;
+  height: 35px;
+  position: absolute;
+  background-color:red;
+  border-radius:  0 10px 10px 0;
+  text-align: center;
+  color: white;
+  top: -30px;
+  right: 5%;
+  z-index: 5;
 }
 
-.animale{
-  display: flex;
-  display: -webkit-flex;
-  flex-flow: row wrap;
-  justify-content:space-evenly;
 
 
-}

@@ -13,34 +13,57 @@
 .nkar1{
   width: 100%;
   height: 600px;
-  background-image: url("./nkar/glav1.jpg");
+ background-image: url("./nkar/fom.jpg");
+  position: relative;
+
+}
+.login{
+  width: 330px;
+  height: 400px;
+  background-color: #242529;
+  opacity: 0.7;
+  position: absolute;
+  right: 2%;
+  top:10%;
+  padding: 3%;
+  border-radius: 10px;
+}
+.form{
+  width: 90%;
+
 
 }
 
+.btn{
+  background-color: #00b386;
+  margin-left: 7%;
 
-
-
+}
+.btn a{
+  color: white;
+  text-decoration: none;
+}
 
 .pickcher_text{
   width: 100%;
   height: 80px;
-  background-color:	 #4dffd2;
+  background-color:	 #00b386;
 }
 
 .pickcher_text h1{
   padding: 10px;
-  color:white ;
+  color: #edeee1;
   text-align: center;
 }
 .footer_nkar{
   width: 100%;
   height: 40px;
-  background-color: white;
+  background-color:#d6e1d6;/* white;*/
 }
 .category{
   width: 100%;
   height: 900px;
-  background-color: white;
+  background-color:#d6e1d6; /*white;*/
 }
 .category .top{
   margin-top: 5%;
@@ -63,7 +86,7 @@ p a{
   width: 60%;
   height: 300px;
   background-image: url("./nkar/natur.jpg");
-  border:4px solid  #4dffd2;
+  border:4px solid  #00b386;
   margin-top: 7%;
  margin-left: 30%;
   margin-right: 5%;
@@ -88,7 +111,7 @@ p a{
   width: 60%;
   height: 300px;
   background-image: url("./nkar/natur.jpg");
-  border:4px solid  #4dffd2;
+  border:4px solid   #00b386;
   padding: 10px;
   box-shadow: 20px 20px 10px 10px #888888;
   margin-top: 1%;
@@ -104,7 +127,7 @@ p a{
   width: 60%;
   height: 300px;
   background-image: url("./nkar/ani.jpg");
-  border:4px solid  #4dffd2;
+  border:4px solid   #00b386;
   margin-top: 7%;
   margin-left: 5%;
   margin-right: 30%;
@@ -126,7 +149,7 @@ p a{
   width: 60%;
   height: 300px;
   background-image: url("./nkar/ani.jpg");
-  border:4px solid  #4dffd2;
+  border:4px solid   #00b386;
   padding: 10px;
   box-shadow: -20px 20px 10px 10px #888888;
   margin-top: 1%;
@@ -151,7 +174,7 @@ p a{
   width: 60%;
   height: 300px;
   background-image: url("./nkar/car.jpg");
-  border:4px solid  #4dffd2;
+  border:4px solid  #00b386;
   margin-top: 7%;
   margin-left: 30%;
   margin-right: 5%;
@@ -173,7 +196,7 @@ p a{
   width: 60%;
   height: 300px;
   background-image: url("./nkar/car.jpg");
-  border:4px solid  #4dffd2;
+  border:4px solid  #00b386;
   padding: 10px;
   box-shadow: 20px 20px 10px 10px #888888;
   margin-top: 1%;
@@ -191,7 +214,7 @@ p a{
   width: 60%;
   height: 300px;
   background-image: url("./nkar/cit.jpg");
-  border:4px solid  #4dffd2;
+  border:4px solid  #00b386;
   margin-top: 7%;
   margin-left: 5%;
   margin-right: 30%;
@@ -200,7 +223,7 @@ p a{
 }
 .city p{
   font-size: 500%;
-  color:white;
+  color: white;
   text-align: center;
   margin-top: 30%;
   display: none;
@@ -215,7 +238,7 @@ p a{
   width: 60%;
   height: 300px;
   background-image: url("./nkar/cit.jpg");
-  border:4px solid  #4dffd2;
+  border:4px solid  #00b386;
   padding: 10px;
   box-shadow: -20px 20px  10px 10px#888888 ;
   margin-top: 1%;
@@ -228,30 +251,37 @@ p a{
 
 .helptext{
   width: 100%;
-  height: 735px;
+  height: 535px;
   display: inline-flex;
 }
 .leftt{
   width: 50%;
   height: 100%;
-  background-color: white;
+  background-color:#d6e1d6; /*white;*/
+  padding: 3%;
 
 
 }
-.leftt h1{
+.leftt h3{
   text-align: center;
-  color:#4dffd2 ;
+  color:dimgrey;
+
 
 }
 .leftt p{
+  font-size: 20px;
   color: dimgrey;
+  text-align: justify;
+  -moz-text-align-last: justify;
+  text-align-last: justify;
+  padding-top: 20%;
 }
 .rigt{
   width: 50%;
   height: 100%;
   background-image: url("./nkar/non.jpg");
-  border-left:2px solid #4dffd2;
-  border-top:2px solid #4dffd2;
+  border-left:2px solid  #00b386;
+  border-top:2px solid #00b386;
 
 
 }

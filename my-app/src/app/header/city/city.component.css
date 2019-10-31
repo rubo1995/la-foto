@@ -1,4 +1,63 @@
-.op{
+
+#body{
+
+}
+
+.city{
   width: 100%;
-  height: 1000px;
+  height: 100%;
+  float:left;
+  padding: 1%;
+  margin-top: 6%;
+  background-color: #d6e1d6;
+
+}
+.city img{
+  width: 24%;
+  height: 250px;
+  padding: 0.5%;
+  margin-left: 0.4%;
+  margin-right: 0.4%;
+
+
+}
+
+.dod{
+  width: 100%;
+  height: 800px;
+  margin-top: 5%;
+  position: relative;
+  cursor: pointer;
+
+}
+.dod img{
+  width: 90%;
+  height: 700px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.dowonload{
+  width: 120px;
+  height:35px ;
+  background-color: #00b386;
+  text-align: center;
+  padding-top: 0.3%;
+  color: white;
+  border-radius: 10px 0 0 10px  ;
+  position: absolute;
+  right:8%;
+  top:-30px;
+}
+
+.closed{
+  width: 40px;
+  height: 35px;
+  position: absolute;
+  background-color:red;
+  border-radius:  0 10px 10px 0;
+  text-align: center;
+  color: white;
+  top: -30px;
+  right: 5%;
+  z-index: 5;
 }

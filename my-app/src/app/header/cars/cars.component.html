@@ -1,2 +1,26 @@
-<div style="margin-top:200px;margin-left: 200px" *ngFor="let item of items; let i =index">{{i+1}}{{item.name}}
-{{item.age}} </div>
+<div class="cars">
+  <div *ngIf="imgCode == 0">
+    <img  *ngFor="let Image of Images" src="{{Image.url}}" (click)="pic(Image.id)" />
+
+  </div>
+
+  <div *ngIf="imgCode !== 0" [ngSwitch]="imgCode" class="dod" >
+    <button class="dowonload"  (click)="0"><h6>DOWONLOAD</h6></button>
+    <button class="closed"   (click)="imgCode = 0"><h4>X</h4></button>
+    <div *ngSwitchCase="'1'" class="dod" > <img src="./././assets/c1.jpg" ></div>
+    <div *ngSwitchCase="'2'" class="dod"><img src="./././assets/c2.jpg" ></div>
+    <div *ngSwitchCase="'3'" class="dod"><img src="./././assets/c3.jpg"  ></div>
+    <div *ngSwitchCase="'4'" class="dod"><img src="./././assets/c4.jpg"  ></div>
+    <div *ngSwitchCase="'5'" class="dod"><img src="./././assets/c5.jpg"  ></div>
+    <div *ngSwitchCase="'6'" class="dod"><img src="./././assets/c6.jpg"  ></div>
+    <div *ngSwitchCase="'7'" class="dod"><img src="./././assets/c7.jpg"  ></div>
+    <div *ngSwitchCase="'8'" class="dod"><img src="./././assets/c8.jpg"  ></div>
+    <div *ngSwitchCase="'9'" class="dod"><img src="./././assets/c9.jpg"  ></div>
+    <div *ngSwitchCase="'10'" class="dod"><img src="./././assets/c10.jpg"  ></div>
+    <div *ngSwitchCase="'11'" class="dod"><img src="./././assets/c11.jpg"  ></div>
+    <div *ngSwitchCase="'12'" class="dod"><img src="./././assets/c12.jpg"  ></div>
+
+  </div>
+
+
+</div>

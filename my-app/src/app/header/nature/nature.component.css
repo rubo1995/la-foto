@@ -8,15 +8,15 @@
   float:left;
   padding: 1%;
   margin-top: 6%;
-  background-color: dimgrey;
+  background-color: #d6e1d6;
 
 }
 .imj img{
-  width: 300px;
+  width: 24%;
   height: 250px;
   padding: 0.5%;
-  margin-left: 0.2%;
-  margin-right: 0.2%;
+  margin-left: 0.4%;
+  margin-right: 0.4%;
 
 
 }
@@ -30,10 +30,12 @@
 
 }
 .dod img{
-  width: 100%;
+  width:90%;
   height: 700px;
+  margin-left: 5%;
+  margin-right: 5%;
 }
-.download{
+.dowonload{
   width: 120px;
   height:35px ;
   background-color: #00b386;
@@ -42,7 +44,7 @@
   color: white;
   border-radius: 10px 0 0 10px  ;
   position: absolute;
-  right: 70px;
+  right: 8%;
   top:-30px;
 }
 
@@ -55,7 +57,7 @@
   text-align: center;
   color: white;
   top: -30px;
-  right: 30px;
+  right: 5%;
   z-index: 5;
 }
 

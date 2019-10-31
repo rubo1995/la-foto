@@ -1,45 +1,28 @@
-
-
 <div class="animale">
 
-  <div *ngIf="!visib" class="visib" >
+  <div *ngIf="imgCode == 0">
+    <img  *ngFor="let Image of Images" src="{{Image.url}}" (click)="pic(Image.id)" />
 
   </div>
-  <div *ngIf="visib" (click)="oopo()"class="on1"></div>
-    <div *ngIf="!visib" (click)="oopo()"class="on1"></div>
+
+  <div *ngIf="imgCode !== 0" [ngSwitch]="imgCode" class="dod" >
+    <button class="dowonload"  (click)="0"><h6>DOWONLOAD</h6></button>
+    <button class="closed"   (click)="imgCode = 0"><h4>X</h4></button>
+    <div *ngSwitchCase="'1'" class="dod" > <img src="./././assets/a1.jpg" ></div>
+    <div *ngSwitchCase="'2'" class="dod"><img src="./././assets/a2.jpg" ></div>
+    <div *ngSwitchCase="'3'" class="dod"><img src="./././assets/a3.jpg"  ></div>
+    <div *ngSwitchCase="'4'" class="dod"><img src="./././assets/a4.jpg"  ></div>
+    <div *ngSwitchCase="'5'" class="dod"><img src="./././assets/a5.jpg"  ></div>
+    <div *ngSwitchCase="'6'" class="dod"><img src="./././assets/a6.jpg"  ></div>
+    <div *ngSwitchCase="'7'" class="dod"><img src="./././assets/a7.jpg"  ></div>
+    <div *ngSwitchCase="'8'" class="dod"><img src="./././assets/a8.jpg"  ></div>
+    <div *ngSwitchCase="'9'" class="dod"><img src="./././assets/a9.jpg"  ></div>
+    <div *ngSwitchCase="'10'" class="dod"><img src="./././assets/a10.jpg"  ></div>
+    <div *ngSwitchCase="'11'" class="dod"><img src="./././assets/a11.jpg"  ></div>
+    <div *ngSwitchCase="'12'" class="dod"><img src="./././assets/a12.jpg"  ></div>
 
 
-
-  <div class="on2"></div>
-  <div class="on3"></div>
-  <div class="on4"></div>
-  <div class="on5"></div>
-  <div class="on6"></div>
-  <div class="on7"></div>
-  <div class="on8"></div>
-  <div class="on9"></div>
-  <div class="on10"></div>
-  <div class="on11"></div>
-  <div class="on12"></div>
-  <div class="on13"></div>
-  <div class="on14"></div>
-  <div class="on15"></div>
-  <div class="on16"></div>
-  <div class="on17"></div>
-  <div class="on18"></div>
-  <div class="on19"></div>
-  <div class="on20"></div>
-  <div class="on21"></div>
-  <div class="on22"></div>
-  <div class="on23"></div>
-  <div class="on24"></div>
-  <div class="on25"></div>
-
-
-
+  </div>
 
 
 </div>
-
-
-

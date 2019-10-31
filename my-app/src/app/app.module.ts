@@ -18,6 +18,8 @@ import { CarsComponent } from './header/cars/cars.component';
 import { CityComponent } from './header/city/city.component';
 import { NotFoundComponent } from './header/not-found/not-found.component';
 import { AdminComponent } from './header/ADMIN/admin/admin.component';
+import { RegistrationComponent } from './header/registration/registration.component';
+
 
 
 
@@ -27,6 +29,7 @@ const appRoutes: Routes =[
   {path:'Animals',component:AnimalsComponent},
   {path:'Cars',component:CarsComponent},
   {path:'City',component:CityComponent},
+  {path:'Registration',component:RegistrationComponent},
   {path:'**',component:NotFoundComponent},
 ];
 
@@ -59,6 +62,9 @@ const appRoutes: Routes =[
 
 
     AdminComponent,
+
+
+    RegistrationComponent,
 
 
 
