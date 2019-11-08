@@ -15,6 +15,20 @@
 
 
 }
+.btn{
+  width: 120px;
+  height: 35px;
+  background-color: #00b386;
+  position: absolute;
+  right: 2%;
+
+}
+.btn a{
+  color: white;
+  text-decoration: none;
+
+
+}
 .my-bg-light h2{
   width: 10%;
   height: 100%;
@@ -24,12 +38,13 @@
 }
 
 .nav-item {
-  margin-left: 6%;
+  margin-left: 10%;
 }
 
 .nav-item a{
   color:#e8e8e8;
   font-size: 15px;
+
 
 
 }

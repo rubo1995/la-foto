@@ -13,7 +13,7 @@
 .nkar1{
   width: 100%;
   height: 600px;
- background-image: url("./nkar/fom.jpg");
+ background-image: url("./nkar/fon.jpg");
   position: relative;
 
 }
@@ -36,7 +36,7 @@
 
 .btn{
   background-color: #00b386;
-  margin-left: 7%;
+
 
 }
 .btn a{
@@ -108,15 +108,15 @@ p a{
 
 }
 .nature:hover{
-  width: 60%;
-  height: 300px;
+  width: 65%;
+  height: 340px;
   background-image: url("./nkar/natur.jpg");
   border:4px solid   #00b386;
   padding: 10px;
   box-shadow: 20px 20px 10px 10px #888888;
   margin-top: 1%;
   margin-left: 25%;
-  margin-right:10%;
+  margin-right:5%;
 
 }
 .right{
@@ -146,14 +146,14 @@ p a{
 
 }
 .animal:hover{
-  width: 60%;
-  height: 300px;
+  width: 65%;
+  height: 340px;
   background-image: url("./nkar/ani.jpg");
   border:4px solid   #00b386;
   padding: 10px;
   box-shadow: -20px 20px 10px 10px #888888;
   margin-top: 1%;
-  margin-left: 10%;
+  margin-left: 5%;
   margin-right: 25%;
 }
 
@@ -193,15 +193,15 @@ p a{
 
 }
 .cars:hover{
-  width: 60%;
-  height: 300px;
+  width: 65%;
+  height: 340px;
   background-image: url("./nkar/car.jpg");
   border:4px solid  #00b386;
   padding: 10px;
   box-shadow: 20px 20px 10px 10px #888888;
   margin-top: 1%;
   margin-left: 25%;
-  margin-right: 10%;
+  margin-right: 5%;
 }
 .bottom_right{
   width: 100%;
@@ -235,14 +235,14 @@ p a{
 }
 
 .city:hover {
-  width: 60%;
-  height: 300px;
+  width: 65%;
+  height: 340px;
   background-image: url("./nkar/cit.jpg");
   border:4px solid  #00b386;
   padding: 10px;
   box-shadow: -20px 20px  10px 10px#888888 ;
   margin-top: 1%;
-  margin-left: 10%;
+  margin-left: 5%;
   margin-right: 25%;
   cursor: pointer;
 

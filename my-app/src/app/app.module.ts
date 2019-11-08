@@ -22,7 +22,6 @@ import { RegistrationComponent } from './header/registration/registration.compon
 
 
 
-
 const appRoutes: Routes =[
   { path:'', component:HomeComponent },
   {path:'Nature', component:NatureComponent},
@@ -74,7 +73,8 @@ const appRoutes: Routes =[
     AppRoutingModule,
     FormsModule,
     HttpClientModule,
-    RouterModule.forRoot(appRoutes)
+    RouterModule.forRoot(appRoutes),
+
 
   ],
   providers: [],

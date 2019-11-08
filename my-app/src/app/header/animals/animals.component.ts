@@ -8,6 +8,13 @@ import { Component, OnInit } from '@angular/core';
 })
 export class AnimalsComponent implements OnInit {
 
+                ////////input\\\\\\\\\\
+
+/*<input class="my-form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" [(ngModel)]="search">
+  <button class="my-btn btn-outline-success my-2 my-sm-0" type="submit"><h6 class="search">Search</h6></button>
+*/
+
+
 
   public imgCode = 0;
   public Images:any=[
