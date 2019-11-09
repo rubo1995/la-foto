@@ -15,7 +15,8 @@
 
 
 }
-.btn{
+
+.my-btn{
   width: 120px;
   height: 35px;
   background-color: #00b386;
@@ -27,13 +28,15 @@
   color: white;
   text-decoration: none;
 
-
+}
+.navbar-toggler{
+  background-color:#00cc99;
 }
 .my-bg-light h2{
-  width: 10%;
+  width: 30%;
   height: 100%;
   color: #00cc99;
-  margin-left: 10%;
+  margin-left: 3%;
   margin-top: 3%;
 }
 
@@ -54,17 +57,20 @@
 
 }
 .my-collapse  {
-  margin-left: 8%;
+  margin-left: 0%;
 }
 
 
-.my-btn{
+.btn{
 
-  border:1px ;
-   border-radius: 10%;
+  border:1px darkblue;
+   border-radius: 5px;
   background-color:  #00b386;
   color:#e8e8e8 ;
   transition: 1s;
+  position: absolute;
+  right: 5%;
+
 }
  .form-inline:hover .my-btn {
    background-color: #00cc99;
@@ -80,4 +86,26 @@
   border-radius: 10px;
 }
 
+.navbar-toggler{
+  width: 55px;
+  height: 55px;
+}
 
+.my-collapse {
+
+  margin: 0;
+  padding: 0;
+  background-color: #242529;
+  opacity: 0.9;
+}
+@media only screen and (max-width: 600px) {
+  .btn{
+    background-color:#242529;
+    position: absolute;
+    left:10%;
+  }
+.my-collapse{
+  height: 250px;
+}
+
+}

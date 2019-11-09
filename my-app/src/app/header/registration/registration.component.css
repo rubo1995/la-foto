@@ -23,3 +23,26 @@
 .btn{
   background-color: #00b386;
 }
+
+
+@media only screen and (max-width: 600px) {
+  .reg{
+    width: 100%;
+    height: 800px;
+    background-image: url("./picture/fon.jpg");
+    position: relative;
+  }
+  .formse{
+    width: 400px;
+    height: 450px;
+    background-color: #484848;
+    position: absolute;
+    right: 10%;
+    top:25%;
+    opacity: 0.8;
+    border-radius: 20px;
+    padding: 5%;
+  }
+
+
+}

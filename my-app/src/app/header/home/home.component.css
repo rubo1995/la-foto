@@ -13,10 +13,19 @@
 .nkar1{
   width: 100%;
   height: 600px;
- background-image: url("./nkar/fon.jpg");
+ background-image: url("./nkar/fonn.jpg");
   position: relative;
+  background-repeat: no-repeat;
 
 }
+
+
+
+
+
+
+
+
 .login{
   width: 330px;
   height: 400px;
@@ -28,6 +37,7 @@
   padding: 3%;
   border-radius: 10px;
 }
+
 .form{
   width: 90%;
 
@@ -255,13 +265,13 @@ p a{
   display: inline-flex;
 }
 .leftt{
-  width: 50%;
-  height: 100%;
-  background-color:#d6e1d6; /*white;*/
-  padding: 3%;
+   width: 50%;
+   height: 100%;
+   background-color:#d6e1d6; /*white;*/
+   padding: 3%;
 
 
-}
+ }
 .leftt h3{
   text-align: center;
   color:dimgrey;
@@ -327,3 +337,257 @@ h6{
   margin-top: 2%;
 
 }
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+
+
+  .nkar{
+    height: 410px;
+  }
+  .nkar1 {
+    background-image: url("./nkar/forr.jpg");
+    height: 410px;
+  }
+  .login{
+    width: 100%;
+    height: 170px;
+    padding-top: 0%;
+    margin-left: 10%;
+    padding-left: 5%;
+    padding-bottom: 15%;
+    border-radius: 10px;
+    margin-top: 189px;
+
+  }
+  .form-group{
+    width: 100%;
+    height: 35px;
+  }
+  .form-check {
+  display: none;
+  }
+  .btn{
+    margin-top: 5%;
+  }
+  .footer_nkar{
+    width: 100%;
+    height: 50px;
+  }
+  .pickcher_text{
+    width: 100%;
+    height: 50px;
+
+  }
+  .pickcher_text h1{
+    font-size: 20px;
+
+  }
+
+
+  .category{
+    width: 100%;
+    height:900px;
+    background-color:#d6e1d6; /*white;*/
+  }
+  .category .top{
+    padding-top: 5%;
+    margin-top: 0%;
+    width: 100%;
+    height: 440px;
+    display: block;
+
+
+  }
+  .left{
+    width: 100%;
+    height: 200px;
+    margin-bottom: 5%;
+  }
+  .nature{
+    width: 80%;
+    height: 200px;
+    background-image: url("./nkar/natu.jpg");
+    border:4px solid  #00b386;
+    margin-left: 10%;
+    margin-top: 0%;
+
+
+  }
+  .nature:hover{
+    width: 80%;
+    height: 200px;
+    background-image: url("./nkar/natu.jpg");
+    border:4px solid  #00b386;
+    margin-left:10%;
+    box-shadow: 0 0 0 0 ;
+    margin-top: 0%;
+  }
+
+
+  .right{
+    width: 100%;
+    height: 200px;
+    margin-bottom: 5%;
+  }
+  .animal{
+    width: 80%;
+    height: 200px;
+    background-image: url("./nkar/animal.jpg");
+    border:4px solid  #00b386;
+    margin-left:10%;
+    margin-top: 5%;
+
+  }
+  .animal:hover{
+    width: 80%;
+    height: 200px;
+    background-image: url("./nkar/animal.jpg");
+    border:4px solid  #00b386;
+    margin-left:10%;
+    box-shadow: 0 0 0 0 ;
+    margin-top: 0%;
+  }
+
+
+  .category .bottom{
+    margin-top:5% ;
+    width: 100%;
+    height: 400px;
+    display: block;
+  }
+  .bottom_left{
+    width: 100%;
+    height: 200px;
+    margin-bottom: 5%;
+
+  }
+  .cars {
+    width: 80%;
+    height: 200px;
+    background-image: url("./nkar/cark.jpg");
+    border: 4px solid #00b386;
+    margin-left: 10%;
+    margin-top: 5%;
+  }
+  .cars:hover{
+    width: 80%;
+    height: 200px;
+    background-image: url("./nkar/cark.jpg");
+    border:4px solid  #00b386;
+    margin-left:10%;
+    box-shadow: 0 0 0 0 ;
+    margin-top: 0%;
+  }
+
+
+  .bottom_right{
+    width: 100%;
+    height: 200px;
+
+  }
+  .city{
+    width: 80%;
+    height: 200px;
+    background-image: url("./nkar/city.jpg");
+    border: 4px solid #00b386;
+    margin-left: 10%;
+    margin-top: 5%;
+  }
+  .city:hover{
+    width: 80%;
+    height: 200px;
+    background-image: url("./nkar/city.jpg");
+    border:4px solid  #00b386;
+    margin-left:10%;
+    box-shadow: 0 0 0 0 ;
+    margin-top: 0%;
+  }
+
+  .helptext{
+    width: 100%;
+    height: 535px;
+    display: block;
+  }
+  .leftt{
+    width: 100%;
+    height: 50%;
+    background-color:#d6e1d6; /*white;*/
+    padding: 3%;
+
+
+  }
+  .leftt h3{
+    text-align: center;
+    color:dimgrey;
+    font-size: 25px;
+
+
+  }
+  .leftt p{
+    font-size: 15px;
+    color: dimgrey;
+    text-align: justify;
+    -moz-text-align-last: justify;
+    text-align-last: justify;
+    padding-top: 5%;
+  }
+
+  .rigt{
+    width: 100%;
+    height: 50%;
+    background-image: url("./nkar/nom.jpg");
+    border:none;
+
+  }
+  .footer{
+    width: 100%;
+    height: 350px;
+    background-color: #242529;
+  }
+  h2{
+    color:#00b386;
+    padding-top: 5%;
+    padding-left: 40%;
+  }
+  ul {
+    list-style:initial;
+
+   margin-left: 40%;
+
+  }
+  li a{
+    float: left;
+    color: papayawhip;
+    text-decoration: none;
+
+  }
+  h5{
+    color:papayawhip;
+    margin-left: 25%;
+    margin-top: 30px;
+    font-size: 15px;
+
+  }
+  h6{
+    color:papayawhip;
+    margin-left: 30%;
+    margin-top: 2%;
+
+  }
+  .bord{
+    width: 80%;
+    height: 1px;
+    background-color: #00b386;
+    margin-top: 25px;
+    margin-left: 10%;
+  }
+}
+
